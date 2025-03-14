@@ -5,12 +5,12 @@ end_date = datetime.datetime(2024, 1, 20, 0, 0)
 
 
 # MongoDB
-username_mongo = 'chelsie_hu'
-password_mongo = 'q3AFVXhvENGbVHw4'
+username_mongo = ''
+password_mongo = ''
 
 # Yes Energy
-username_yes = 'lzhao@arevonenergy.com1'
-password_yes = 'eiB!8AJm5eN7LYw'
+username_yes = ''
+password_yes = ''
 base_url = "https://services.yesenergy.com/PS/rest/timeseries"
 
 params = {
